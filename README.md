@@ -5,3 +5,5 @@ Os requisitos são: - Possuir classes com diferentes armas e atributos, utilizan
 - Escolher itens dentro de seu inventário.
 - Interface de opções via terminal.
 - 2 armas diferentes para cada personagem.
+
+### EDITÀAAAVEL
